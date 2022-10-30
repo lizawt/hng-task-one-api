@@ -7,4 +7,4 @@ app = FastAPI()
 
 @app.get('/')
 def hello_world():
-    return {"slackUsername":"Wathuku", "backend":True, "age":32, "bio":"Always learning new things"}
+    return {"slackUsername":"Lizthuku", "backend":True, "age":32, "bio":"Always learning new things"}
